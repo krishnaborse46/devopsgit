@@ -1,1 +1,2 @@
 thi is second file check in local repor
+soft reset
